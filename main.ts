@@ -16,6 +16,7 @@ input.onGesture(Gesture.Shake, function () {
     }
 })
 let number = 0
+basic.showString("Hi!")
 basic.showLeds(`
     . # # # .
     # . . . #
